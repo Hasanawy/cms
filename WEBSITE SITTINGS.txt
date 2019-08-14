@@ -1,0 +1,15 @@
+Your account has been created with username epiz_24321692
+FTP Username	epiz_24321692
+FTP Password	iqFsGrjSB2GXZK
+FTP Hostname	ftpupload.net
+FTP Port (optional)	21
+
+
+
+Current Databases
+MySQL DB Name   epiz_24321692_cms
+MySQL User Name	epiz_24321692	
+MySQL Password  iqFsGrjSB2GXZK
+MySQL Host Name  sql312.epizy.com	
+	
+		
